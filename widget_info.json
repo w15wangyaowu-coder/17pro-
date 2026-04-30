@@ -1,16 +1,8 @@
 {
-  {
   "type": "wallpaper",
-  "name": "kingxv桌面",
-  "business_setup": {
-    "id": "kingxv-desktop",
-    "renameable": true
-  },
-  "card_setup": {
-    "name": "kingxv桌面",
-    "package": "hk.uwu.reareye",
-    "priority": 500,
-    "sticky": false,
-    "renameable": true
+  "name": "kingxv桌面"
+  "business_setup":{
+   "id": "kingxv-desktop",
+   "renameable": true
   }
 }
