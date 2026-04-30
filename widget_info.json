@@ -1,4 +1,6 @@
 {
+  {
+  "type": "wallpaper",
   "name": "kingxv桌面",
   "business_setup": {
     "id": "kingxv-desktop",
@@ -8,7 +10,7 @@
     "name": "kingxv桌面",
     "package": "hk.uwu.reareye",
     "priority": 500,
-    "sticky": true,
+    "sticky": false,
     "renameable": true
   }
 }
